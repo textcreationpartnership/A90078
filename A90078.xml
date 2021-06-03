@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Holland: of the entertainment of the Queenes Most Excellent Maiestie of Great Britaine, the young Princesse Marie, the prince and princesse of Orange, with the young prince their sonne, and most part of the nobility at Amsterdam; invited thither by the lords estates of that city: where in a barge they were conveyed into the city by divers living swans fastned to her barge; with divers triumphs both by water and land. Also divers other remarkable passages from Liepsich, Erford, Collen, Wessell, and divers other places.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90078</idno><idno type="EEBO-CITATION">99872358</idno>
+  <idno type="VID">156692</idno>
+  <idno type="EEBO-PROQUEST">2248517142</idno>
+  
+            <idno type="STC">Wing N967</idno>
+            <idno type="STC">Thomason E148_10</idno>
+            <idno type="STC">ESTC R3366</idno>
+            <idno type="PROQUEST">99872358</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872358e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156692)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Holland: of the entertainment of the Queenes Most Excellent Maiestie of Great Britaine, the young Princesse Marie, the prince and princesse of Orange, with the young prince their sonne, and most part of the nobility at Amsterdam; invited thither by the lords estates of that city: where in a barge they were conveyed into the city by divers living swans fastned to her barge; with divers triumphs both by water and land. Also divers other remarkable passages from Liepsich, Erford, Collen, Wessell, and divers other places.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ed. Blackmore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May the 20th. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669 --  Early works to 1800.</term>
+               <term type="personal_name">Mary, --  Princess Royal of England, 1631-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  History --  Wars of Independence, 1556-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156692:1"/>
+            <p>
+               <hi>Newes from Holland:</hi> OF THE ENTERTAINMENT OF THE QUEENES Most Excellent MAIESTIE OF GREAT BRITAINE, THE Young Princesse <hi>MARIE,</hi> THE Prince and Princesse of ORANGE, <hi>WITH</hi> The young Prince their Sonne, and most part of the Nobility at <hi>Amsterdam;</hi> Invited thither by the Lords Estates of that City: Where in a Barge they were conveyed into the City by divers living Swans fastned to her Barge; With divers Triumphs both by water and land.</p>
+            <p>
+               <hi>ALSO</hi> Divers other remarkable passages from <hi>Liepsich, Erford, Collen, Wessell,</hi> and divers other places.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ed. Blackmore, May</hi> the 20th. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156692:2"/>
+            <pb n="1" facs="tcp:156692:2"/>
+            <head>
+               <hi>Newes from Holland,</hi> OF THE Entertainment of THE QVEENES most excellent MAIESTIE OF GREAT BRITAINE.</head>
+            <div type="report">
+               <head>
+                  <hi>From the Hague,</hi> May 20. 10. 1642.</head>
+               <p>
+                  <seg rend="decorInit">U</seg>Pon munday the 19. 9. of <hi>May,</hi> the Queenes most excellent Majesty of great Britaine, the young Princesse <hi>Mary,</hi> the Prince and Princesse of <hi>O<g ref="char:EOLhyphen"/>range,</hi> with the young Prince their Sonne, and most part of the Nobility in the <hi>Hague</hi>
+                  <pb n="2" facs="tcp:156692:3"/> went to <hi>Amsterdam;</hi> being invited by the Lords Estates of that City: where by their appointment upon her arrivall, there met her upon the water a most rich and costly Barge, in which her Majesty being entred, without help of Oares or Sailes shee was conveyed into the City by divers living Swans which were fastned to the foresaid Barge; and as she passed along, was entertained with divers tri<g ref="char:EOLhyphen"/>umphs upon the water: Likewise when she landed, as shee passed the streets, divers Pageants and other Showes did present themselves unto her, which for cost and magnificence, the like was never seene in <hi>Holland</hi> before.</p>
+               <p>Thursday the 27. of <hi>May,</hi> the Prince of <hi>Orange</hi> intends to go into the field with all his Forces: The report goes, hee resolves to besiege the City of <hi>Gelders,</hi> but as yet the certainty of it is not known, though the speech of most is to that effect, the ra<g ref="char:EOLhyphen"/>ther because hee may bee neere unto the <hi>French</hi> and <hi>Weymarish</hi> Army, that now lies quartered in the Bishoprick of <hi>Collen;</hi> so that being neere-one unto the other, they may receive the speedier help one from another if occasion should serve.</p>
+            </div>
+            <div type="report">
+               <pb n="3" facs="tcp:156692:3"/>
+               <head>Leipsich <hi>24.</hi> April. <hi>4.</hi> May.</head>
+               <p>
+                  <hi>TOrshenson</hi> hath sent word to the Peers of upper <hi>Lusatia,</hi> desiring them to provide necessaries for his Army; which if they refuse to doe, hee threatneth to use them as enemies. The 29. of <hi>April,</hi> he broke up with his whole army from <hi>Spremberg,</hi> and advanced toward <hi>Scraw,</hi> afterward hee went to besiege great <hi>Glogaw,</hi> he hath in his Army 4000 dismounted horsemen. The foure <hi>Saxons</hi> Companies of Dragoners, and three Com<g ref="char:EOLhyphen"/>panies of horse, that lay in <hi>Guben,</hi> were forced to take pay under the <hi>Sweds.</hi> The Imperiall Cavale<g ref="char:EOLhyphen"/>ry, marcheth from all places towards <hi>Silesia</hi> to the Duke of <hi>Saxen Lawenburg.</hi> And at <hi>Anslow</hi> a Dyet is summoned; and the si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th man of the Inhabitants is raised to oppose the <hi>Swedish.</hi>
+               </p>
+            </div>
+            <div type="report">
+               <head>Leipsich <hi>26.</hi> April. <hi>6</hi> May.</head>
+               <p>The 19. 29. <hi>April,</hi> the City of <hi>Guben</hi> after two dayes siege was surrendred upon composition to Generall <hi>Torshenson;</hi> who hath kept rendevouz at <hi>Spottaw,</hi> and found his Army compleat 20000. strong. The Castle of <hi>Sagon</hi> is left by the Impe<g ref="char:EOLhyphen"/>rialists; <hi>Soraw, Colaw,</hi> and other places have yeelded to the <hi>Sweds.</hi> The <hi>Swedish</hi> parties straggle to the very Gate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Lignitz:</hi> now they batter the Castle of <hi>Sonnenwald. Torshenson</hi> hath his Quarter now at <hi>Sternberg:</hi> Generall Major <hi>Stolhans</hi> hath mustred at <hi>Crossen</hi> 8000 men. The Imperiall and <hi>Saxon</hi> soul<g ref="char:EOLhyphen"/>diers runne in great number to the <hi>Swedish.</hi>
+               </p>
+            </div>
+            <div type="report">
+               <pb n="4" facs="tcp:156692:4"/>
+               <head>
+                  <hi>Erford.</hi> 11.1.</head>
+               <p>Our Governour Colonell <hi>Goldstein</hi> having heard that the Imperiall Colonell <hi>Wolfromsdrof</hi> and Colonell <hi>Craft</hi> with their two Regiments of horse lay in <hi>Ruttelstad,</hi> he commanded Colonell Lievte<g ref="char:EOLhyphen"/>nant <hi>Linden</hi> with 400 Musquetiers and all the horsemen thither, which arrived there about four of the clock in the morning, and found the Imperialists in alarum; <hi>Wolffromsdrof</hi> fought stoutly, but at last our Musquetiers forced him to retire, and left his Lady prisone<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, from whom Colonell <hi>Linden</hi> took 8000 rich dollers, store of Plate and costly clothes, and so sent her away: in this action our men put to the sword fifty horsemen, took thirty Prisoners, with all their baggage and five hundred horse, which they brought hither. The Magistrates and Towns-men of <hi>Hildesheim</hi> have agreed not to take in any Imperiall Garrison, therefore they are excluded from the concluded Treaty; and Duke <hi>Ludwy</hi> hath put more <hi>Luniburgish</hi> Forces in<g ref="char:EOLhyphen"/>to it, and disarmed the Citizens.</p>
+            </div>
+            <div type="report">
+               <head>
+                  <hi>Leipsich.</hi> 11. 1.</head>
+               <p>From <hi>Dresden</hi> and <hi>Lubenthall</hi> they write, that on Sunday last the <hi>Swedish</hi> took by assault the Ab<g ref="char:EOLhyphen"/>bey at great <hi>Glogaw,</hi> and three houres after they took the City also, and put to the sword them which they found in armes, and took the rest, saving some Officers which retired into the Castle, but they are not able to keep it. In this City lay foure Regi<g ref="char:EOLhyphen"/>ments under Colonell <hi>Rochaw,</hi> and Colonell
+<pb n="5" facs="tcp:156692:4"/>
+                  <hi>Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>naugen,</hi> in foure thousand strong, three thou<g ref="char:EOLhyphen"/>sand whereof they put to the sword, one thousand they took: The <hi>Swedish</hi> got in it forty Canons fourteene whereof are of Brasse, and got such store of provision in it, which might have served for a long time for the whole Imperiall Army. The <hi>Swedish</hi> parties straggle as farre as <hi>Breslaw;</hi> it is feared that they will master that Abbey too. Duke <hi>Saxon Lawenburg</hi> hath kept rendevouz be<g ref="char:EOLhyphen"/>twixt <hi>Munsterburg</hi> and <hi>Frankensteim,</hi> and found his Army in sixteene thousand strong; as soone as the nine Imperiall Regiments are joyned with him, then he is to oppose the <hi>Swedish.</hi>
+               </p>
+            </div>
+            <div type="report">
+               <head>
+                  <hi>Collen</hi> 14. 4. <hi>May.</hi>
+               </head>
+               <p>From <hi>Frankford</hi> they write, that after the <hi>Bavarian</hi> Forces have received some pay, and kept at <hi>Duty<g ref="char:EOLhyphen"/>bach</hi> generall rendevouz, they received order to break up withall speed, and to succour the Elector of <hi>Collen,</hi> they are to take their quarters at <hi>Mulle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and the next places to it, fully to consume there, what the <hi>Hatsfeldians</hi> have left.</p>
+            </div>
+            <div type="report">
+               <head>
+                  <hi>Wesell</hi> 15. 5. <hi>May.</hi>
+               </head>
+               <p>The City of <hi>Lechinich</hi> is quite burnd down, and the Governour retired into the Castle with five hundred men, which the <hi>Weymarish</hi> batter: The Governour hath sent to his Elector, that he could hold it eight dayes longer, but if nosuccour did come in that time, then he will be forced to yeeld.</p>
+               <p>From <hi>Holland</hi> they write, that fifty Companies of Germans of the States Army are to joyn with
+<pb n="6" facs="tcp:156692:5"/> the <hi>Weymarish,</hi> whereof three Companies under the command of Colonell <hi>Marten Van I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghan,</hi> are gone already from <hi>Emmerick</hi> thither, and the rest of the Companies have order to march with speed to that Army. At <hi>Vliessingen</hi> are arrived foure thou<g ref="char:EOLhyphen"/>sand <hi>French</hi> souldiers comming from <hi>Diepe,</hi> which are to joyn with the <hi>Weymarish.</hi>
+               </p>
+               <p>In <hi>Holland</hi> are arrived six ships from <hi>Brazeill</hi> with three thousand six hundred Chests of sugar; wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h newes also, that the Portugall in the Bay keep goo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> correspondence with the <hi>Hollanders</hi> there.</p>
+               <p>The Queen of <hi>England</hi> was ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ally entertained at <hi>Amsterdam</hi> the 20. 10 of <hi>May</hi> The Generall and Officers of the traine of the States Army, together with the Commissioners, are departed from the Prince of <hi>Orange</hi> with their Commissions to cause the garrisons to march, their rendevouz is at <hi>Lit,</hi> and the sconce <hi>Tervoren.</hi>
+               </p>
+               <p>From <hi>Paris</hi> they write, that <hi>Gustavus Horn,</hi> and <hi>Duc du Boulloin</hi> are arrived at <hi>Lions, Horn</hi> goeth to the King, and <hi>Duc du Boulloin</hi> to his Army in <hi>Pie<g ref="char:EOLhyphen"/>mont,</hi> with <hi>Don Francisco della Marca</hi> generall Pay<g ref="char:EOLhyphen"/>master of the <hi>Spanish</hi> Army, who was taken priso<g ref="char:EOLhyphen"/>ner in the last battel in <hi>Catolonia,</hi> where were found 60000. <hi>Spanish</hi> duplons, which were divided amongst the <hi>French</hi> Souldiers.</p>
+               <p>Monsieur <hi>du Hallier</hi> hath order to recover those places in <hi>Lorrayn,</hi> which the Duke of <hi>Lorrayn</hi> hath in possession.</p>
+               <p>From <hi>Antwerp,</hi> Don <hi>Francisca du Melo</hi> is said to have besieged <hi>Arras,</hi> and the <hi>French</hi> to have blockt up <hi>Cambroy,</hi> but neither is believed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
